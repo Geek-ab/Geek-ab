@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Mongo db**
 
-- 💬 Ask me about **C++,MySql,Html,Css,Javascript,Bootstrap**
+- 💬 Ask me about **C++,MySql,Html,Css,Javascript,Bootstrap,figma**
 
 - 📫 How to reach me **bhargavaaaryan76@gmail.com**
 
